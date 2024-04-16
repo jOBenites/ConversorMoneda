@@ -19,11 +19,11 @@
 
 *[Conclusión](#conclusión)
 
-## :hammer:tecnologías-utilizadas
+## :hammer:[Tecnologías utilizadas](tecnologías-utilizadas)
 
 - `Java 17`- `GSON`
 
-## Características-de-la-aplicación-y-demostración
+## [Características de la aplicación y demostración](Características-de-la-aplicación-y-demostración)
 
 1. Ingresar por teclado el tipo de moneda a convertir
    
@@ -33,7 +33,7 @@
    
 4. Salida de la aplicación
 
-## personas-desarrolladores
+## [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
 *jOBenites*
 
