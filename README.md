@@ -21,7 +21,8 @@
 
 ## :hammer:[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-- `Java 17`- `GSON`
+- `Java 17`
+- `GSON`
 
 ## [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
