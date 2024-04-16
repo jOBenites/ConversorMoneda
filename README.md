@@ -2,7 +2,7 @@
 
  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
- ## [Descripción del proyecto](#descripción-del-proyecto)
+ ## [Descripción del proyecto](descripción-del-proyecto)
  *Una biblioteca de Java para acceder a la API Core de exchangerate-api atraves de HttpClient y realizar conversiones de monedas.*
 
  ## Índice
