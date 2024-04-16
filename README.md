@@ -30,6 +30,6 @@
 
 *[Conclusión](#conclusión)
 
-## tecnologías-utilizadas:hammer:Tecnologías utilizadas
+## :hammer:tecnologías-utilizadas
 
 - `Java 17`- `GSON`
