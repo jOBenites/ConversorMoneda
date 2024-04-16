@@ -4,7 +4,7 @@
 
  *Traducción: una biblioteca de Java para acceder a la API Core de exchangerate-api atraves de HttpClient y realizar conversiones de monedas*
 
- ## :Índice
+ ## Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
