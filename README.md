@@ -2,13 +2,10 @@
 
  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
+ ## descripción-del-proyecto
  *Traducción: una biblioteca de Java para acceder a la API Core de exchangerate-api atraves de HttpClient y realizar conversiones de monedas*
 
  ## Índice
-
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
-
-*[Insignias](#insignias)
 
 *[Índice](#índice)
 
@@ -33,3 +30,5 @@
 ## :hammer:tecnologías-utilizadas
 
 - `Java 17`- `GSON`
+
+
