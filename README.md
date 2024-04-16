@@ -1,10 +1,10 @@
-<em> # Conversor de Monedas </em>
+<em> Conversor de Monedas </em>
 
  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
  *Traducción: una biblioteca de Java para acceder a la API Core de exchangerate-api atraves de HttpClient y realizar conversiones de monedas*
 
- ##Índice
+ ## :Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
@@ -30,6 +30,6 @@
 
 *[Conclusión](#conclusión)
 
-## :hammer:Funcionalidades del proyecto
+## :hammer:Tecnologías utilizadas
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Java 17`- `GSON`
