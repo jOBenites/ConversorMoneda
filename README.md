@@ -15,7 +15,7 @@
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+*[Personas Desarrolladores del Proyecto](#personas-desarrolladores)
 
 *[Conclusión](#conclusión)
 
@@ -34,7 +34,7 @@
    
 4. Salida de la aplicación
 
-## [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+## [Personas Desarrolladores del Proyecto](#personas-desarrolladores)
 
 *jOBenites*
 
