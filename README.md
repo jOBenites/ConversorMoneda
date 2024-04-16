@@ -3,7 +3,7 @@
  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
  ## descripción-del-proyecto
- *Traducción: una biblioteca de Java para acceder a la API Core de exchangerate-api atraves de HttpClient y realizar conversiones de monedas*
+ *Una biblioteca de Java para acceder a la API Core de exchangerate-api atraves de HttpClient y realizar conversiones de monedas*
 
  ## Índice
 
@@ -11,19 +11,11 @@
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
-
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-*[Acceso al proyecto](#acceso-proyecto)
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
-
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
 
 *[Conclusión](#conclusión)
 
@@ -31,4 +23,16 @@
 
 - `Java 17`- `GSON`
 
+## Características-de-la-aplicación-y-demostración
+
+*Hola mundo*
+
+## personas-contribuyentes
+
+*Joshua jOBenites*
+
+## conclusión
+
+*Está aplicación se realizo para fines educativos, para mostrar el progreso de lo estudiado en Alura Latam y Oracle One.*
+*Gracias por su atención, saludos y exitos!!*
 
