@@ -33,7 +33,7 @@
    
 4. Salida de la aplicación
 
-## personas-contribuyentes
+## personas-desarrolladores
 
 *jOBenites*
 
