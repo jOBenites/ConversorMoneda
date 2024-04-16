@@ -3,7 +3,7 @@
  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
  ## descripción-del-proyecto
- *Una biblioteca de Java para acceder a la API Core de exchangerate-api atraves de HttpClient y realizar conversiones de monedas*
+ *Una biblioteca de Java para acceder a la API Core de exchangerate-api atraves de HttpClient y realizar conversiones de monedas.*
 
  ## Índice
 
@@ -25,11 +25,17 @@
 
 ## Características-de-la-aplicación-y-demostración
 
-*Hola mundo*
+1. Ingresar por teclado el tipo de moneda a convertir
+   
+2. Ingresar monto a calcular
+   
+3. Impresión del resultado en consola
+   
+4. Salida de la aplicación
 
 ## personas-contribuyentes
 
-*Joshua jOBenites*
+*jOBenites*
 
 ## conclusión
 
