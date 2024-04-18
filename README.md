@@ -30,11 +30,14 @@
 
    ![image](https://github.com/jOBenites/ConversorMoneda/assets/64656625/dd89a54b-dc73-4e05-ba9e-79e161aaa300)
 
-3. Ingresar monto a calcular
+2. Ingresar monto a calcular
+
+   ![image](https://github.com/jOBenites/ConversorMoneda/assets/64656625/ad96acae-c414-4a00-b061-46740706eea5)
    
-4. Impresión del resultado en consola
-   
-5. Salida de la aplicación
+3. Impresión del resultado en consola
+
+   ![image](https://github.com/jOBenites/ConversorMoneda/assets/64656625/ab0a1a6c-6db6-4463-8788-777a212a0c53)
+
 
 ## [Personas Desarrolladores del Proyecto](#personas-desarrolladores)
 
