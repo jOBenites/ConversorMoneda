@@ -30,7 +30,7 @@
 
    ![image](https://github.com/jOBenites/ConversorMoneda/assets/64656625/dd89a54b-dc73-4e05-ba9e-79e161aaa300)
 
-2. Ingresar monto a calcular
+2. Ingresar monto a convertir
 
    ![image](https://github.com/jOBenites/ConversorMoneda/assets/64656625/ad96acae-c414-4a00-b061-46740706eea5)
    
