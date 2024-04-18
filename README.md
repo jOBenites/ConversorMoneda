@@ -27,12 +27,14 @@
 ## [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
 1. Ingresar por teclado el tipo de moneda a convertir
+
+   ![image](https://github.com/jOBenites/ConversorMoneda/assets/64656625/dd89a54b-dc73-4e05-ba9e-79e161aaa300)
+
+3. Ingresar monto a calcular
    
-2. Ingresar monto a calcular
+4. Impresión del resultado en consola
    
-3. Impresión del resultado en consola
-   
-4. Salida de la aplicación
+5. Salida de la aplicación
 
 ## [Personas Desarrolladores del Proyecto](#personas-desarrolladores)
 
